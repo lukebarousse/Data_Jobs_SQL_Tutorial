@@ -1,6 +1,6 @@
 # Data Job Postings - SQL Tutorial
 
-This repository includes the [SQL files](/sql_loads/) to build a PostgreSQL database for my SQL tutorial.
+This repository includes the [SQL files](/sql_load/) to build a PostgreSQL database for my SQL tutorial.
 
 Checkout the video [here](INSERT YOUR YOUTUBE VIDEO LINK HERE).
 
@@ -12,6 +12,6 @@ To download and save this directory, follow these steps:
 2. Select **Download ZIP** from the dropdown menu.
 3. Save the ZIP file to a known location on your computer.
 4. Unzip the file.
-5. Move the folder [sql_loads](/sql_load/) into your project folder.
+5. Move the folder [/sql_load](/sql_load/) into your project folder.
 
 
