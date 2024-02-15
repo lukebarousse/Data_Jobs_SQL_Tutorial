@@ -1,4 +1,4 @@
-# Data Job Postings - SQL Tutorial
+# SQL Tutorial - Files for Database Load
 
 This repository includes the [SQL files](/sql_load/) to build a PostgreSQL database for my SQL tutorial.
 

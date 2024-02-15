@@ -13,7 +13,3 @@ DELIMITER ',' CSV HEADER;
 COPY skills_job_dim
 FROM '/Users/lukebarousse/Developer/DataNerd/Data_Jobs_SQL_Tutorial/csv_files/skills_job_dim.csv'
 DELIMITER ',' CSV HEADER;
-
--- SELECT *
--- FROM skills_job_dim
--- LIMIT 5;
