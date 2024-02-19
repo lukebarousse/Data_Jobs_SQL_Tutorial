@@ -28,7 +28,7 @@ CREATE TABLE public.job_postings_fact
     job_schedule_type TEXT,
     job_work_from_home BOOLEAN,
     search_location TEXT,
-    job_posted_date DATE,
+    job_posted_date TIMESTAMP,
     job_no_degree_mention BOOLEAN,
     job_health_insurance BOOLEAN,
     job_country TEXT,
