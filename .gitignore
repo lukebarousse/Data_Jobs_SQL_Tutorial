@@ -2,7 +2,3 @@ csv_files/
 sql_builds/
 .vscode/
 .DS_Store
-csv_files_4/company_dim.csv
-csv_files_4/job_postings_fact.csv
-csv_files_4/skills_job_dim.csv
-csv_files_4/skills_dim.csv
