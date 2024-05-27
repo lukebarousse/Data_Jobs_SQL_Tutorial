@@ -1,4 +1,5 @@
 csv_files/
+python_files/
 sql_builds/
 .vscode/
 .DS_Store
